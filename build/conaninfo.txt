@@ -1,0 +1,46 @@
+[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.libcxx=libstdc++
+    compiler.version=5
+    os=Linux
+
+[requires]
+    bzip2/1.Y.Z
+    opus/1.Y.Z
+    portaudio/v190600.20161030
+
+[options]
+
+
+[full_settings]
+    arch=x86_64
+    arch_build=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.libcxx=libstdc++
+    compiler.version=5
+    os=Linux
+    os_build=Linux
+
+[full_requires]
+    bzip2/1.0.8@conan/stable:3df6ebb8a308d309e882b21988fd9ea103560e16
+    opus/1.2.1@bincrafters/stable:76f87539fc90ff313e0b3182641a9bb558a717d2
+    portaudio/v190600.20161030@bincrafters/stable:76f87539fc90ff313e0b3182641a9bb558a717d2
+
+[full_options]
+    bzip2:build_executable=True
+    bzip2:fPIC=True
+    bzip2:shared=False
+    opus:fPIC=True
+    opus:fixed_point=False
+    opus:shared=False
+    portaudio:fPIC=True
+    portaudio:shared=False
+
+[recipe_hash]
+
+
+[env]
+

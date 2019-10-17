@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/server.dir/src/server.cpp.o CMakeFiles/server.dir/src/clientS.cpp.o CMakeFiles/server.dir/src/room.cpp.o CMakeFiles/server.dir/src/word_array.cpp.o  -o server -lboost_system -lboost_thread -lboost_timer -lpthread 

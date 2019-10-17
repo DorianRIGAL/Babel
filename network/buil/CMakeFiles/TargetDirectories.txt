@@ -1,0 +1,3 @@
+/home/dorianrigal/Epitech/B5-Advanced_C++/CPP_babel_2019/network/buil/CMakeFiles/rebuild_cache.dir
+/home/dorianrigal/Epitech/B5-Advanced_C++/CPP_babel_2019/network/buil/CMakeFiles/edit_cache.dir
+/home/dorianrigal/Epitech/B5-Advanced_C++/CPP_babel_2019/network/buil/CMakeFiles/server.dir

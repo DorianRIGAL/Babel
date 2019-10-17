@@ -1,0 +1,4 @@
+/home/dorianrigal/Epitech/GitHub/Babel/build/CMakeFiles/rebuild_cache.dir
+/home/dorianrigal/Epitech/GitHub/Babel/build/CMakeFiles/edit_cache.dir
+/home/dorianrigal/Epitech/GitHub/Babel/build/CMakeFiles/babel_client.dir
+/home/dorianrigal/Epitech/GitHub/Babel/build/CMakeFiles/babel_client_autogen.dir

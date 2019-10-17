@@ -1,0 +1,30 @@
+{
+ "graph_lock": {
+  "nodes": {
+   "b9ce593f-ee73-11e9-bd06-f85971956c67": {
+    "options": "build_executable=True\nfPIC=True\nshared=False",
+    "pref": "bzip2/1.0.8@conan/stable#0:3df6ebb8a308d309e882b21988fd9ea103560e16#0"
+   },
+   "b9ce5940-ee73-11e9-bd06-f85971956c67": {
+    "path": "/home/dorianrigal/Epitech/GitHub/Babel/conanfile.txt",
+    "options": "bzip2:build_executable=True\nbzip2:fPIC=True\nbzip2:shared=False\nopus:fPIC=True\nopus:fixed_point=False\nopus:shared=False\nportaudio:fPIC=True\nportaudio:shared=False",
+    "pref": null,
+    "requires": {
+     "opus/1.2.1@bincrafters/stable#0": "b9ce593d-ee73-11e9-bd06-f85971956c67",
+     "portaudio/v190600.20161030@bincrafters/stable#0": "b9ce593e-ee73-11e9-bd06-f85971956c67",
+     "bzip2/1.0.8@conan/stable#0": "b9ce593f-ee73-11e9-bd06-f85971956c67"
+    }
+   },
+   "b9ce593e-ee73-11e9-bd06-f85971956c67": {
+    "options": "fPIC=True\nshared=False",
+    "pref": "portaudio/v190600.20161030@bincrafters/stable#0:76f87539fc90ff313e0b3182641a9bb558a717d2#0"
+   },
+   "b9ce593d-ee73-11e9-bd06-f85971956c67": {
+    "options": "fPIC=True\nfixed_point=False\nshared=False",
+    "pref": "opus/1.2.1@bincrafters/stable#0:76f87539fc90ff313e0b3182641a9bb558a717d2#0"
+   }
+  }
+ },
+ "profile": "[settings]\narch=x86_64\narch_build=x86_64\nbuild_type=Release\ncompiler=gcc\ncompiler.libcxx=libstdc++\ncompiler.version=5\nos=Linux\nos_build=Linux\n[options]\n[build_requires]\n[env]\n",
+ "version": "0.1"
+}

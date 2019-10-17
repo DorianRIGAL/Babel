@@ -1,0 +1,42 @@
+{
+ "options": [
+  [
+   "bzip2:build_executable",
+   "True"
+  ],
+  [
+   "bzip2:fPIC",
+   "True"
+  ],
+  [
+   "bzip2:shared",
+   "False"
+  ],
+  [
+   "opus:fPIC",
+   "True"
+  ],
+  [
+   "opus:fixed_point",
+   "False"
+  ],
+  [
+   "opus:shared",
+   "False"
+  ],
+  [
+   "portaudio:fPIC",
+   "True"
+  ],
+  [
+   "portaudio:shared",
+   "False"
+  ]
+ ],
+ "root": {
+  "name": null,
+  "channel": null,
+  "user": null,
+  "version": null
+ }
+}
